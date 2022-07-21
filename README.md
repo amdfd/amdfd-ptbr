@@ -1,5 +1,5 @@
 <img align="right" src="https://i.ibb.co/ZfHQX9x/test2.png" alt="test2" border="0">
-<a href="https://github.com/amdfd/amdfd">🇺🇸 ENGLISH VERSION</a>
+<a href="https://github.com/amdfd/amdfd">🇺🇸 IN ENGLISH</a>
 
 <h1>Sobre mim:</h1>
 👋 Olá, sou a Amanda <br>
