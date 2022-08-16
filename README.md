@@ -34,6 +34,6 @@
 <h3>Entre em contato comigo por aqui ou pelas minhas redes sociais:</h3>
 <div><br>
   <a href="https://www.linkedin.com/in/amdfd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="mailto:amandaf.dias96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  <a href="mailto:amdfd@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
 </div>
 
