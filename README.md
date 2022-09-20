@@ -6,6 +6,7 @@
 🗺️ Sou de São Paulo, Brasil<br>
 👩‍💻 Tenho interesse em começar minha carreira na área de tecnologia <br>
 🌱 Estou aprendendo HTML, CSS, JavaScript, Java e Banco de Dados <br>
+🎓 Sou recém formada no bootcamp de Pessoa Desenvolvedora Web Full Stack da Generation Brasil <br>
 
 
 <h1>Como comecei:</h1>
