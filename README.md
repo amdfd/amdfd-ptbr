@@ -16,7 +16,7 @@
 <h1>Meus planos:</h1>
 ☑️ Voltar a estudar em tempo integral;<br>
 ☑️ Começar meu portfólio<br>
-🟦 Finalizar pelo menos três projetos que demonstrem minhas habilidades;<br>
+☑️ Finalizar pelo menos três projetos que demonstrem minhas habilidades;<br>
 🟦 Conseguir meu primeiro trabalho como desenvolvedora júnior.<br>  
 
 ##
