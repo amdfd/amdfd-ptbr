@@ -6,7 +6,7 @@
 🗺️ Sou de São Paulo, Brasil<br>
 👩‍💻 Tenho interesse em começar minha carreira na área de tecnologia <br>
 🌱 Estou aprendendo HTML, CSS, JavaScript, Java e Banco de Dados <br>
-🎓 Sou recém formada no bootcamp de Pessoa Desenvolvedora Web Full Stack da Generation Brasil <br>
+🎓 Sou formada no bootcamp de Pessoa Desenvolvedora Web Full Stack da Generation Brasil e participei do Hackathon de 15 dias do Grupo FCamara <br>
 
 
 <h1>Como comecei:</h1>
@@ -17,7 +17,11 @@
 ☑️ Voltar a estudar em tempo integral;<br>
 ☑️ Começar meu portfólio<br>
 ☑️ Finalizar pelo menos três projetos que demonstrem minhas habilidades;<br>
-🟦 Conseguir meu primeiro trabalho como desenvolvedora júnior.<br>  
+🟦 Conseguir meu primeiro trabalho como desenvolvedora júnior.<br> 
+
+<h1>Projetos do Bootcamp e Hackathon</h1>
+📣 <a href="https://github.com/FalaMemoGeneration">FalaMemo (rede social)  </a><br>
+🍊 <a href="https://github.com/squad34-2022">Orange Evolution (plataforma de estudos)  </a>
 
 ##
 <h3 align="left">Linguagens e Ferramentas:</h3><br>
