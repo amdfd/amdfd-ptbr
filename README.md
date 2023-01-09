@@ -17,7 +17,7 @@
 ☑️ Voltar a estudar em tempo integral;<br>
 ☑️ Começar meu portfólio<br>
 ☑️ Finalizar pelo menos três projetos que demonstrem minhas habilidades;<br>
-🟦 Conseguir meu primeiro trabalho como desenvolvedora júnior.<br> 
+☑️ Conseguir meu primeiro trabalho como desenvolvedora júnior.<br> 
 
 <h1>Projetos do Bootcamp e Hackathon</h1>
 📣 <a href="https://github.com/FalaMemoGeneration">FalaMemo (rede social)  </a><br>
