@@ -4,20 +4,20 @@
 <h1>Sobre mim:</h1>
 👋 Olá, sou a Amanda <br>
 🗺️ Sou de São Paulo, Brasil<br>
-👩‍💻 Tenho interesse em começar minha carreira na área de tecnologia <br>
-🌱 Estou aprendendo HTML, CSS, JavaScript, Java e Banco de Dados <br>
-🎓 Sou formada no bootcamp de Pessoa Desenvolvedora Web Full Stack da Generation Brasil e participei do Hackathon de 15 dias do Grupo FCamara <br>
+👩‍💻 Sou desenvolvedora front end júnior na Dasa<br>
+🌱 Estou aprofundando meus conhecimentos em JavaScript, TypeScript e React, e estou aprendendo GraphQL e Jest <br>
+🎓 Na área tech sou formada no bootcamp de Pessoa Desenvolvedora Web Full Stack da Generation Brasil e participei do Hackathon de 15 dias do Grupo FCamara. Fora da área tech sou formada em Tradução e Interpretação com pós-graduação em Língua Inglesa <br>
 
 
 <h1>Como comecei:</h1>
-👩‍🏫 Sou professora de inglês por formação, mas sempre tive interesse em tecnologia. Quando a escola na qual trabalhava decidiu incluir aulas de lógica de programação no currículo do curso utilizando o <b>Swift Playgrounds</b> da Apple como ferramenta, eu precisei tirar a certificação de Apple Teacher e foi aí que percebi que conseguia me ver como uma pessoa desenvolvedora 💻. <br>É por isso que agora em 2022 resolvi voltar a estudar em tempo integral para fazer minha transição de carreira.
+👩‍🏫 Trabalhando como professora de inglês tive a oportunidade de me certificar como Apple Teacher e começar a ensinar Lógica de Programação em inglês para crianças e adolescentes. Dois anos depois decidi entrar de vez na área tech, por isso estudei por conta, me formei no bootcamp da Generation Brasil e participei do Hackathon da FCamara, realizando dois projetos que me permitiram conseguir minha primeira oportunidade como desenvolvedora front end na Dasa, onde estou trabalhando no momento.
 <br><br>
 
-<h1>Meus planos:</h1>
-☑️ Voltar a estudar em tempo integral;<br>
-☑️ Começar meu portfólio<br>
-☑️ Finalizar pelo menos três projetos que demonstrem minhas habilidades;<br>
-☑️ Conseguir meu primeiro trabalho como desenvolvedora júnior.<br> 
+<h1>Meus planos atuais:</h1>
+☒ Conseguir meu primeiro trabalho como desenvolvedora júnior<br> 
+☐ Completar a Formação React da Alura<br>
+☐ Iniciar graduação na área de tecnologia<br>
+☐ Me tornar desenvolvedora plena<br>
 
 <h1>Projetos do Bootcamp e Hackathon</h1>
 📣 <a href="https://github.com/FalaMemoGeneration">FalaMemo (rede social)  </a><br>
@@ -32,6 +32,9 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+	<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 	<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
