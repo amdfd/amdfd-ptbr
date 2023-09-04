@@ -1,4 +1,4 @@
-<img align="right" src="https://i.ibb.co/ZfHQX9x/test2.png" alt="test2" border="0">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRxNjdydHJqZTBocTVseDZxejhqNHg4d3RpMXhidXk2bjlteTNleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f3Ft7V5eBKX55XDJXC/giphy.gif" alt="test2" border="0" width="360px">
 <a href="https://github.com/amdfd">🇺🇸 IN ENGLISH</a>
 
 <h1>Sobre mim:</h1>
