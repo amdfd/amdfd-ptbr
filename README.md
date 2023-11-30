@@ -16,7 +16,7 @@
 <h1>Meus planos atuais:</h1>
 ☒ Conseguir meu primeiro trabalho como desenvolvedora júnior<br> 
 ☐ Completar a Formação React da Alura<br>
-☐ Iniciar graduação na área de tecnologia<br>
+☒ Iniciar pós-graduação na área de tecnologia<br>
 ☐ Me tornar desenvolvedora plena<br>
 
 <h1>Projetos do Bootcamp e Hackathon</h1>
