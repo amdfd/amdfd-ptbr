@@ -4,9 +4,9 @@
 <h1>Sobre mim:</h1>
 👋 Olá, sou a Amanda <br>
 🗺️ Sou de São Paulo, Brasil<br>
-👩‍💻 Sou desenvolvedora front end júnior na Dasa<br>
+👩‍💻 Sou desenvolvedora front end júnior <b>buscando recolocação após um layoff</b><br>
 🌱 Estou aprofundando meus conhecimentos em JavaScript, TypeScript e React, e estou aprendendo GraphQL e Jest <br>
-🎓 Na área tech sou formada no bootcamp de Pessoa Desenvolvedora Web Full Stack da Generation Brasil e participei do Hackathon de 15 dias do Grupo FCamara. Fora da área tech sou formada em Tradução e Interpretação com pós-graduação em Língua Inglesa <br>
+🎓 Na área tech estou iniciando uma pós-graduação em Desenvolvimento Full Stack na FIAP, sou formada no bootcamp de Pessoa Desenvolvedora Web Full Stack da Generation Brasil e participei do Hackathon de 15 dias do Grupo FCamara. Fora da área tech sou formada em Tradução e Interpretação com pós-graduação em Língua Inglesa <br>
 
 
 <h1>Como comecei:</h1>
