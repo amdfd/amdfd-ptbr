@@ -1,47 +1,49 @@
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRxNjdydHJqZTBocTVseDZxejhqNHg4d3RpMXhidXk2bjlteTNleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f3Ft7V5eBKX55XDJXC/giphy.gif" alt="test2" border="0" width="360px">
 <a href="https://github.com/amdfd">🇺🇸 IN ENGLISH</a>
 
-<h1>Sobre mim:</h1>
-👋 Olá, sou a Amanda <br>
-🗺️ Sou de São Paulo, Brasil<br>
-👩‍💻 Sou desenvolvedora front end júnior <b>buscando recolocação após um layoff</b><br>
-🌱 Estou aprofundando meus conhecimentos em JavaScript, TypeScript e React, e estou aprendendo GraphQL e Jest <br>
-🎓 Na área tech estou iniciando uma pós-graduação em Desenvolvimento Full Stack na FIAP, sou formada no bootcamp de Pessoa Desenvolvedora Web Full Stack da Generation Brasil e participei do Hackathon de 15 dias do Grupo FCamara. Fora da área tech sou formada em Tradução e Interpretação com pós-graduação em Língua Inglesa <br>
+# Sobre mim:
+- 👋 Olá, sou a Amanda
+- 🗺️ Sou de São Paulo, Brasil
+- 👩‍💻 Sou desenvolvedora front end júnior <b>buscando recolocação após um layoff</b>
+- 🌱 Estou aprofundando meus conhecimentos em JavaScript, React, Node.js e Testes Unitários
+- 🎓 Sou estudante da pós-graduação em Desenvolvimento Full Stack na FIAP
 
+<details>
+	<summary>⬇️ Como comecei a programar</summary>
+	👩‍🏫 Trabalhando como professora de inglês tive a oportunidade de me certificar como Apple Teacher e começar a ensinar Lógica de Programação em inglês para crianças e adolescentes. Dois anos depois decidi entrar de vez na área tech, por isso 	estudei por conta, me formei no bootcamp da Generation Brasil e participei do Hackathon da FCamara, realizando dois projetos que me permitiram conseguir minha primeira oportunidade como desenvolvedora front end na Dasa, onde trabalhei por 1 
+	ano como júnior.
+</details>
 
-<h1>Como comecei:</h1>
-👩‍🏫 Trabalhando como professora de inglês tive a oportunidade de me certificar como Apple Teacher e começar a ensinar Lógica de Programação em inglês para crianças e adolescentes. Dois anos depois decidi entrar de vez na área tech, por isso estudei por conta, me formei no bootcamp da Generation Brasil e participei do Hackathon da FCamara, realizando dois projetos que me permitiram conseguir minha primeira oportunidade como desenvolvedora front end na Dasa, onde estou trabalhando no momento.
-<br><br>
+<details>
+	<summary>⬇️ Projetos do Bootcamp e Hackathon</summary>
+	📣 <a href="https://github.com/FalaMemoGeneration">FalaMemo (rede social)  </a><br>
+	🍊 <a href="https://github.com/squad34-2022">Orange Evolution (plataforma de estudos)  </a>
+</details>
 
-<h1>Meus planos atuais:</h1>
-☒ Conseguir meu primeiro trabalho como desenvolvedora júnior<br> 
-☐ Completar a Formação React da Alura<br>
-☒ Iniciar pós-graduação na área de tecnologia<br>
-☐ Me tornar desenvolvedora plena<br>
+## Meus objetivos:
+- [x] Começar a pós em Desenvolvimento Full Stack na FIAP
+- [ ] Fazer o design e codar meu portfólio
+- [ ] Escrever testes unitários para meus projetos
 
-<h1>Projetos do Bootcamp e Hackathon</h1>
-📣 <a href="https://github.com/FalaMemoGeneration">FalaMemo (rede social)  </a><br>
-🍊 <a href="https://github.com/squad34-2022">Orange Evolution (plataforma de estudos)  </a>
-
-##
-<h3 align="left">Linguagens e Ferramentas:</h3><br>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-	<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-	<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-##
-<h3>Entre em contato comigo por aqui ou pelas minhas redes sociais:</h3>
-<div><br>
-  <a href="https://www.linkedin.com/in/amdfd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="mailto:amdfd@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+## Minhas stacks e ferramentas:
+<div display=inline-block>
+	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+	<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+	<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+	<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
+
+### Entre em contato comigo por aqui ou pelas minhas redes sociais:
+- [LinkedIn](https://www.linkedin.com/in/amdfd/)
+- [Email](mailto:amandaf.dias96@gmail.com)
 
