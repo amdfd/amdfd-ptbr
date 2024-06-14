@@ -3,7 +3,7 @@
 # Sobre mim:
 - 👋 Olá, sou a Amanda
 - 🗺️ Sou de São Paulo, Brasil
-- 👩‍💻 Sou desenvolvedora front end júnior <b>buscando recolocação após um layoff</b>
+- 👩‍💻 Sou desenvolvedora full stack <b>buscando recolocação após um layoff</b>
 - 🌱 Estou aprofundando meus conhecimentos em JavaScript, React, Node.js e Testes Unitários
 - 🎓 Sou estudante da pós-graduação em Desenvolvimento Full Stack na FIAP
 
