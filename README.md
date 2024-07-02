@@ -3,8 +3,8 @@
 # Sobre mim:
 - 👋 Olá, sou a Amanda
 - 🗺️ Sou de São Paulo, Brasil
-- 👩‍💻 Sou desenvolvedora full stack <b>buscando recolocação após um layoff</b>
-- 🌱 Estou aprofundando meus conhecimentos em JavaScript, React, Node.js e Testes Unitários
+- 👩‍💻 Sou desenvolvedora de software no Mercado Livre!
+- 🌱 Estou aprofundando meus conhecimentos em Java, JavaScript, React, Node.js e Testes Unitários
 - 🎓 Sou estudante da pós-graduação em Desenvolvimento Full Stack na FIAP
 
 <details>
