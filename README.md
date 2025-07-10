@@ -3,9 +3,9 @@
 # Sobre mim:
 - 👋 Olá, sou a Amanda
 - 🗺️ Sou de São Paulo, Brasil
-- 👩‍💻 Sou desenvolvedora de software no Mercado Livre!
-- 🌱 Estou aprofundando meus conhecimentos em Java, JavaScript, React, Node.js e Testes Unitários
-- 🎓 Sou estudante da pós-graduação em Desenvolvimento Full Stack na FIAP
+- 👩‍💻 Sou desenvolvedora de software back-end no Mercado Livre!
+- 🌱 Estou aprofundando meus conhecimentos em Java, Go e Arquitetura de Software
+- 🎓 Sou pós-graduada em Desenvolvimento Full Stack pela FIAP
 
 <details>
 	<summary>⬇️ Como comecei a programar</summary>
@@ -20,26 +20,20 @@
 </details>
 
 ## Meus objetivos:
-- [x] Começar a pós em Desenvolvimento Full Stack na FIAP
-- [ ] Fazer o design e codar meu portfólio
-- [ ] Escrever testes unitários para meus projetos
+- [x] Contribuir com meus primeiros projetos em Go
+- [ ] Voltar a praticar no Code Wars
+- [ ] Aprender mais sobre Arquitetura de Software
 
 ## Minhas stacks e ferramentas:
 <div display=inline-block>
-	<img alt="Static Badge" src="https://img.shields.io/badge/GIT-9c4f96">
 	<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-ff6355">
 	<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-fba949">
-	<img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-fae442">
 	<img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-8bd448">
 	<img alt="Static Badge" src="https://img.shields.io/badge/REACT-2aa8f2">
-	<img alt="Static Badge" src="https://img.shields.io/badge/MATERIAL--UI-8bd448">
 	<img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-fae442">
-	<img alt="Static Badge" src="https://img.shields.io/badge/EXPRESS.JS-fba949">
 	<img alt="Static Badge" src="https://img.shields.io/badge/JAVA-ff6355">
+	<img alt="Static Badge" src="https://img.shields.io/badge/GO-2aa8f2">
 	<img alt="Static Badge" src="https://img.shields.io/badge/SPRING-9c4f96">
-	<img alt="Static Badge" src="https://img.shields.io/badge/JEST-ff6355">
-	<img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-fba949">
-	<img alt="Static Badge" src="https://img.shields.io/badge/MONGODB-fae442">
 	<img alt="Static Badge" src="https://img.shields.io/badge/FIGMA-8bd448">
 </div>
 
